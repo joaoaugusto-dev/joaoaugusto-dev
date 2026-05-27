@@ -1,0 +1,89 @@
+name: Update profile README
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update recent repositories section
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require("fs");
+
+            const username = "joaoaugusto-dev";
+            const readmePath = "README.md";
+            const start = "<!-- RECENT_REPOS:START -->";
+            const end = "<!-- RECENT_REPOS:END -->";
+
+            const { data: repos } = await github.rest.repos.listForUser({
+              username,
+              sort: "pushed",
+              direction: "desc",
+              per_page: 100,
+              type: "owner",
+            });
+
+            const visibleRepos = repos
+              .filter((repo) => !repo.fork && !repo.archived)
+              .filter((repo) => repo.name.toLowerCase() !== username.toLowerCase())
+              .slice(0, 6);
+
+            const cardUrl = (repo) =>
+              `https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${encodeURIComponent(repo.name)}&hide_border=false&border_color=6D28D9&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB&icon_color=A855F7`;
+
+            const rows = [];
+            for (let index = 0; index < visibleRepos.length; index += 2) {
+              const pair = visibleRepos.slice(index, index + 2);
+              const cards = pair
+                .map(
+                  (repo) => `  <a href="${repo.html_url}">
+    <img width="410" src="${cardUrl(repo)}" alt="Repositório ${repo.name}" />
+  </a>`
+                )
+                .join("\n");
+
+              rows.push(`<p align="center">\n${cards}\n</p>`);
+            }
+
+            const lastCommitBadges = visibleRepos
+              .map(
+                (repo) =>
+                  `  <img src="https://img.shields.io/github/last-commit/${username}/${encodeURIComponent(repo.name)}?style=for-the-badge&color=6D28D9&labelColor=1F103A&label=${encodeURIComponent(repo.name)}" alt="Último commit em ${repo.name}" />`
+              )
+              .join("\n");
+
+            const generated = [
+              start,
+              rows.join("\n\n"),
+              "",
+              "<p align=\"center\">",
+              lastCommitBadges,
+              "</p>",
+              end,
+            ].join("\n");
+
+            const readme = fs.readFileSync(readmePath, "utf8");
+            const pattern = new RegExp(`${start}[\\s\\S]*?${end}`);
+
+            if (!pattern.test(readme)) {
+              throw new Error("Recent repositories markers were not found in the README.");
+            }
+
+            fs.writeFileSync(readmePath, readme.replace(pattern, generated));
+
+      - name: Commit README update
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: update recent repositories"
+          file_pattern: README.md
