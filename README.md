@@ -83,7 +83,7 @@ Tenho interesse em front-end, desenvolvimento mobile, integração de sistemas, 
         <img src="https://img.shields.io/badge/Ubuntu%20Server-4C1D95?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu Server" />
         <img src="https://img.shields.io/badge/CLI-1F103A?style=flat-square&logo=gnubash&logoColor=white" alt="CLI" />
       </p>
-      <p>Interesse prático por ambientes Linux, servidores domésticos, Ubuntu Server sem interface gráfica, manutenção por CLI e reaproveitamento de hardware para estudos técnicos.</p>
+      <p>Interesse prático por ambientes Linux, servidores domésticos, Ubuntu Server sem interface gráfica e manutenção por CLI para estudos técnicos.</p>
     </td>
     <td width="50%">
       <h3>Aplicações web e prototipação</h3>
@@ -105,19 +105,6 @@ Tenho interesse em front-end, desenvolvimento mobile, integração de sistemas, 
   <img src="https://img.shields.io/github/followers/joaoaugusto-dev?style=for-the-badge&color=6D28D9&labelColor=1F103A&logo=github&logoColor=white&label=Seguidores" alt="Seguidores no GitHub" />
   <img src="https://img.shields.io/github/stars/joaoaugusto-dev?style=for-the-badge&color=A855F7&labelColor=1F103A&logo=github&logoColor=white&label=Estrelas" alt="Estrelas no GitHub" />
   <img src="https://komarev.com/ghpvc/?username=joaoaugusto-dev&style=for-the-badge&color=6D28D9&label=Visitas+ao+perfil" alt="Visitas ao perfil" />
-</p>
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=joaoaugusto-dev&show_icons=true&hide_title=true&hide_border=false&border_color=6D28D9&bg_color=0D1117&text_color=E5E7EB&icon_color=A855F7&ring_color=A855F7&include_all_commits=true&count_private=true"
-    alt="Estatísticas do GitHub"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoaugusto-dev&layout=compact&hide_border=false&border_color=6D28D9&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB&langs_count=8"
-    alt="Linguagens mais utilizadas"
-  />
 </p>
 
 <p align="center">
@@ -158,11 +145,11 @@ Tenho interesse em front-end, desenvolvimento mobile, integração de sistemas, 
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaoaugusto-dev/joaoaugusto-dev/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaoaugusto-dev/joaoaugusto-dev/output/github-contribution-grid-snake.svg" />
-    <img width="820" alt="Animação da grade de contribuições do GitHub" src="https://raw.githubusercontent.com/joaoaugusto-dev/joaoaugusto-dev/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img
+    width="820"
+    src="https://raw.githubusercontent.com/joaoaugusto-dev/joaoaugusto-dev/output/github-contribution-grid-snake.svg"
+    alt="Animação da grade de contribuições do GitHub"
+  />
 </p>
 
 <br />
@@ -173,46 +160,18 @@ Tenho interesse em front-end, desenvolvimento mobile, integração de sistemas, 
 
 <!-- RECENT_REPOS:START -->
 <table>
-<tr>
+  <tr>
     <td width="50%">
-      <a href="https://github.com/joaoaugusto-dev/pi-2026.1"><strong>pi-2026.1</strong></a>
-      <p>Aplicativo Flutter de inspeção dimensional assistida, que usa visão computacional e marcadores físicos para validar peças metálicas no chão de fábrica com rastreabilidade e geração de relatórios.</p>
-      <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/pi-2026.1?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em pi-2026.1" />
-      <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/pi-2026.1?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de pi-2026.1" />
-    </td>
-    <td width="50%">
-      <a href="https://github.com/joaoaugusto-dev/testedesoftware-iee-29119"><strong>testedesoftware-iee-29119</strong></a>
+      <a href="https://github.com/joaoaugusto-dev/curso-flutter"><strong>curso-flutter</strong></a>
       <p>Repositório público atualizado automaticamente.</p>
-      <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/testedesoftware-iee-29119?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em testedesoftware-iee-29119" />
-      <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/testedesoftware-iee-29119?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de testedesoftware-iee-29119" />
-    </td>
-  </tr>
-<tr>
-    <td width="50%">
-      <a href="https://github.com/joaoaugusto-dev/legacy-code-override"><strong>legacy-code-override</strong></a>
-      <p>Projeto de Iniciação Científica: Jogo de plataforma 2D que explora conceitos de Inteligência Artificial, Evolução e Engenharia de Prompt como mecânicas de gameplay.</p>
-      <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/legacy-code-override?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em legacy-code-override" />
-      <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/legacy-code-override?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de legacy-code-override" />
+      <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/curso-flutter?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em curso-flutter" />
+      <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/curso-flutter?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de curso-flutter" />
     </td>
     <td width="50%">
       <a href="https://github.com/joaoaugusto-dev/projeto_financeiro"><strong>projeto_financeiro</strong></a>
       <p>Repositório público atualizado automaticamente.</p>
       <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/projeto_financeiro?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em projeto_financeiro" />
       <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/projeto_financeiro?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de projeto_financeiro" />
-    </td>
-  </tr>
-<tr>
-    <td width="50%">
-      <a href="https://github.com/joaoaugusto-dev/projeto05_firebase_viacep"><strong>projeto05_firebase_viacep</strong></a>
-      <p>Repositório público atualizado automaticamente.</p>
-      <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/projeto05_firebase_viacep?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em projeto05_firebase_viacep" />
-      <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/projeto05_firebase_viacep?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de projeto05_firebase_viacep" />
-    </td>
-    <td width="50%">
-      <a href="https://github.com/joaoaugusto-dev/rede-de-cinemas-06-04-26"><strong>rede-de-cinemas-06-04-26</strong></a>
-      <p>Repositório público atualizado automaticamente.</p>
-      <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/rede-de-cinemas-06-04-26?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em rede-de-cinemas-06-04-26" />
-      <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/rede-de-cinemas-06-04-26?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de rede-de-cinemas-06-04-26" />
     </td>
   </tr>
 </table>
