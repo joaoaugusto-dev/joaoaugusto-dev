@@ -181,12 +181,39 @@ Tenho interesse em front-end, desenvolvimento mobile, integração de sistemas, 
 
 <!-- RECENT_REPOS:START -->
 <p align="center">
-  <a href="https://github.com/joaoaugusto-dev/curso-flutter">
-    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=joaoaugusto-dev&repo=curso-flutter&hide_border=false&border_color=6D28D9&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB&icon_color=A855F7" alt="Repositório curso-flutter" />
+  <a href="https://github.com/joaoaugusto-dev/pi-2026.1">
+    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=joaoaugusto-dev&repo=pi-2026.1&hide_border=false&border_color=6D28D9&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB&icon_color=A855F7" alt="Repositório pi-2026.1" />
+  </a>
+  <a href="https://github.com/joaoaugusto-dev/testedesoftware-iee-29119">
+    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=joaoaugusto-dev&repo=testedesoftware-iee-29119&hide_border=false&border_color=6D28D9&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB&icon_color=A855F7" alt="Repositório testedesoftware-iee-29119" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/joaoaugusto-dev/legacy-code-override">
+    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=joaoaugusto-dev&repo=legacy-code-override&hide_border=false&border_color=6D28D9&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB&icon_color=A855F7" alt="Repositório legacy-code-override" />
   </a>
   <a href="https://github.com/joaoaugusto-dev/projeto_financeiro">
     <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=joaoaugusto-dev&repo=projeto_financeiro&hide_border=false&border_color=6D28D9&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB&icon_color=A855F7" alt="Repositório projeto_financeiro" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/joaoaugusto-dev/projeto05_firebase_viacep">
+    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=joaoaugusto-dev&repo=projeto05_firebase_viacep&hide_border=false&border_color=6D28D9&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB&icon_color=A855F7" alt="Repositório projeto05_firebase_viacep" />
+  </a>
+  <a href="https://github.com/joaoaugusto-dev/rede-de-cinemas-06-04-26">
+    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=joaoaugusto-dev&repo=rede-de-cinemas-06-04-26&hide_border=false&border_color=6D28D9&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB&icon_color=A855F7" alt="Repositório rede-de-cinemas-06-04-26" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/pi-2026.1?style=for-the-badge&color=6D28D9&labelColor=1F103A&label=pi-2026.1" alt="Último commit em pi-2026.1" />
+  <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/testedesoftware-iee-29119?style=for-the-badge&color=6D28D9&labelColor=1F103A&label=testedesoftware-iee-29119" alt="Último commit em testedesoftware-iee-29119" />
+  <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/legacy-code-override?style=for-the-badge&color=6D28D9&labelColor=1F103A&label=legacy-code-override" alt="Último commit em legacy-code-override" />
+  <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/projeto_financeiro?style=for-the-badge&color=6D28D9&labelColor=1F103A&label=projeto_financeiro" alt="Último commit em projeto_financeiro" />
+  <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/projeto05_firebase_viacep?style=for-the-badge&color=6D28D9&labelColor=1F103A&label=projeto05_firebase_viacep" alt="Último commit em projeto05_firebase_viacep" />
+  <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/rede-de-cinemas-06-04-26?style=for-the-badge&color=6D28D9&labelColor=1F103A&label=rede-de-cinemas-06-04-26" alt="Último commit em rede-de-cinemas-06-04-26" />
 </p>
 <!-- RECENT_REPOS:END -->
 
