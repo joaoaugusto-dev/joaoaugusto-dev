@@ -145,22 +145,6 @@ Tenho interesse em front-end, desenvolvimento mobile, integração de sistemas, 
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaoaugusto-dev/joaoaugusto-dev/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaoaugusto-dev/joaoaugusto-dev/output/github-contribution-grid-snake.svg" />
-    <img width="820" alt="Animação da grade de contribuições do GitHub" src="https://raw.githubusercontent.com/joaoaugusto-dev/joaoaugusto-dev/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-<p align="center">
-  <img
-    width="820"
-    src="https://github-profile-trophy.vercel.app/?username=joaoaugusto-dev&theme=discord&no-frame=true&no-bg=true&row=1&column=6&margin-w=12&margin-h=12"
-    alt="Troféus do GitHub"
-  />
-</p>
-
-<p align="center">
   <img
     height="170"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaoaugusto-dev&theme=midnight_purple"
@@ -173,6 +157,14 @@ Tenho interesse em front-end, desenvolvimento mobile, integração de sistemas, 
   />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaoaugusto-dev/joaoaugusto-dev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaoaugusto-dev/joaoaugusto-dev/output/github-contribution-grid-snake.svg" />
+    <img width="820" alt="Animação da grade de contribuições do GitHub" src="https://raw.githubusercontent.com/joaoaugusto-dev/joaoaugusto-dev/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 <br />
 
 ## Repositórios recentes
@@ -180,41 +172,22 @@ Tenho interesse em front-end, desenvolvimento mobile, integração de sistemas, 
 <p>Lista atualizada automaticamente a partir dos repositórios públicos com atividade mais recente.</p>
 
 <!-- RECENT_REPOS:START -->
-<p align="center">
-  <a href="https://github.com/joaoaugusto-dev/pi-2026.1">
-    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=joaoaugusto-dev&repo=pi-2026.1&hide_border=false&border_color=6D28D9&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB&icon_color=A855F7" alt="Repositório pi-2026.1" />
-  </a>
-  <a href="https://github.com/joaoaugusto-dev/testedesoftware-iee-29119">
-    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=joaoaugusto-dev&repo=testedesoftware-iee-29119&hide_border=false&border_color=6D28D9&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB&icon_color=A855F7" alt="Repositório testedesoftware-iee-29119" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/joaoaugusto-dev/legacy-code-override">
-    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=joaoaugusto-dev&repo=legacy-code-override&hide_border=false&border_color=6D28D9&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB&icon_color=A855F7" alt="Repositório legacy-code-override" />
-  </a>
-  <a href="https://github.com/joaoaugusto-dev/projeto_financeiro">
-    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=joaoaugusto-dev&repo=projeto_financeiro&hide_border=false&border_color=6D28D9&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB&icon_color=A855F7" alt="Repositório projeto_financeiro" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/joaoaugusto-dev/projeto05_firebase_viacep">
-    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=joaoaugusto-dev&repo=projeto05_firebase_viacep&hide_border=false&border_color=6D28D9&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB&icon_color=A855F7" alt="Repositório projeto05_firebase_viacep" />
-  </a>
-  <a href="https://github.com/joaoaugusto-dev/rede-de-cinemas-06-04-26">
-    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=joaoaugusto-dev&repo=rede-de-cinemas-06-04-26&hide_border=false&border_color=6D28D9&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB&icon_color=A855F7" alt="Repositório rede-de-cinemas-06-04-26" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/pi-2026.1?style=for-the-badge&color=6D28D9&labelColor=1F103A&label=pi-2026.1" alt="Último commit em pi-2026.1" />
-  <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/testedesoftware-iee-29119?style=for-the-badge&color=6D28D9&labelColor=1F103A&label=testedesoftware-iee-29119" alt="Último commit em testedesoftware-iee-29119" />
-  <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/legacy-code-override?style=for-the-badge&color=6D28D9&labelColor=1F103A&label=legacy-code-override" alt="Último commit em legacy-code-override" />
-  <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/projeto_financeiro?style=for-the-badge&color=6D28D9&labelColor=1F103A&label=projeto_financeiro" alt="Último commit em projeto_financeiro" />
-  <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/projeto05_firebase_viacep?style=for-the-badge&color=6D28D9&labelColor=1F103A&label=projeto05_firebase_viacep" alt="Último commit em projeto05_firebase_viacep" />
-  <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/rede-de-cinemas-06-04-26?style=for-the-badge&color=6D28D9&labelColor=1F103A&label=rede-de-cinemas-06-04-26" alt="Último commit em rede-de-cinemas-06-04-26" />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/joaoaugusto-dev/curso-flutter"><strong>curso-flutter</strong></a>
+      <p>Repositório público atualizado automaticamente.</p>
+      <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/curso-flutter?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em curso-flutter" />
+      <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/curso-flutter?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de curso-flutter" />
+    </td>
+    <td width="50%">
+      <a href="https://github.com/joaoaugusto-dev/projeto_financeiro"><strong>projeto_financeiro</strong></a>
+      <p>Repositório público atualizado automaticamente.</p>
+      <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/projeto_financeiro?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em projeto_financeiro" />
+      <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/projeto_financeiro?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de projeto_financeiro" />
+    </td>
+  </tr>
+</table>
 <!-- RECENT_REPOS:END -->
 
 <br />
@@ -246,7 +219,6 @@ Tenho interesse em front-end, desenvolvimento mobile, integração de sistemas, 
       <h3>Home lab</h3>
       <p>
         <img src="https://img.shields.io/badge/Ubuntu%20Server-Headless-6D28D9?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu Server" />
-        <img src="https://img.shields.io/badge/Hardware-Reaproveitado-4C1D95?style=flat-square" alt="Hardware reaproveitado" />
         <img src="https://img.shields.io/badge/Administra%C3%A7%C3%A3o-CLI-1F103A?style=flat-square&logo=gnubash&logoColor=white" alt="Administração via CLI" />
       </p>
     </td>
