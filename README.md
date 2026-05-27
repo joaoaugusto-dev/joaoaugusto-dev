@@ -147,7 +147,7 @@ Tenho interesse em front-end, desenvolvimento mobile, integração de sistemas, 
 <p align="center">
   <img
     width="820"
-    src="https://raw.githubusercontent.com/joaoaugusto-dev/joaoaugusto-dev/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/joaoaugusto-dev/joaoaugusto-dev/output/github-snake-purple-green.svg"
     alt="Animação da grade de contribuições do GitHub"
   />
 </p>
