@@ -39,39 +39,53 @@ jobs:
               .filter((repo) => repo.name.toLowerCase() !== username.toLowerCase())
               .slice(0, 6);
 
-            const cardUrl = (repo) =>
-              `https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${encodeURIComponent(repo.name)}&hide_border=false&border_color=6D28D9&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB&icon_color=A855F7`;
+            const escapeHtml = (value = "") =>
+              String(value)
+                .replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;")
+                .replace(/"/g, "&quot;");
+
+            const repoPath = (repo) => `${username}/${encodeURIComponent(repo.name)}`;
+            const description = (repo) =>
+              repo.description
+                ? escapeHtml(repo.description)
+                : "Repositório público atualizado automaticamente.";
+
+            const lastCommitBadge = (repo) =>
+              `https://img.shields.io/github/last-commit/${repoPath(repo)}?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit`;
+
+            const languageBadge = (repo) =>
+              `https://img.shields.io/github/languages/top/${repoPath(repo)}?style=flat-square&color=4C1D95&labelColor=1F103A`;
 
             const rows = [];
             for (let index = 0; index < visibleRepos.length; index += 2) {
               const pair = visibleRepos.slice(index, index + 2);
-              const cards = pair
+              const cells = pair
                 .map((repo) =>
                   [
-                    `  <a href="${repo.html_url}">`,
-                    `    <img width="410" src="${cardUrl(repo)}" alt="Repositório ${repo.name}" />`,
-                    "  </a>",
+                    '    <td width="50%">',
+                    `      <a href="${repo.html_url}"><strong>${escapeHtml(repo.name)}</strong></a>`,
+                    `      <p>${description(repo)}</p>`,
+                    `      <img src="${lastCommitBadge(repo)}" alt="Último commit em ${escapeHtml(repo.name)}" />`,
+                    `      <img src="${languageBadge(repo)}" alt="Linguagem principal de ${escapeHtml(repo.name)}" />`,
+                    "    </td>",
                   ].join("\n")
                 )
                 .join("\n");
 
-              rows.push(`<p align="center">\n${cards}\n</p>`);
+              if (pair.length === 1) {
+                rows.push(`<tr>\n${cells}\n    <td width="50%"></td>\n  </tr>`);
+              } else {
+                rows.push(`<tr>\n${cells}\n  </tr>`);
+              }
             }
-
-            const lastCommitBadges = visibleRepos
-              .map(
-                (repo) =>
-                  `  <img src="https://img.shields.io/github/last-commit/${username}/${encodeURIComponent(repo.name)}?style=for-the-badge&color=6D28D9&labelColor=1F103A&label=${encodeURIComponent(repo.name)}" alt="Último commit em ${repo.name}" />`
-              )
-              .join("\n");
 
             const generated = [
               start,
-              rows.join("\n\n"),
-              "",
-              "<p align=\"center\">",
-              lastCommitBadges,
-              "</p>",
+              "<table>",
+              rows.join("\n"),
+              "</table>",
               end,
             ].join("\n");
 
