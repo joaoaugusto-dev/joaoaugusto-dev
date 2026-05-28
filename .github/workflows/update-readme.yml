@@ -50,7 +50,7 @@ jobs:
             const description = (repo) =>
               repo.description
                 ? escapeHtml(repo.description)
-                : "Repositório público atualizado automaticamente.";
+                : "Repositório Geral";
 
             const lastCommitBadge = (repo) =>
               `https://img.shields.io/github/last-commit/${repoPath(repo)}?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit`;

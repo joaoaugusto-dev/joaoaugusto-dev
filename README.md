@@ -29,11 +29,11 @@
 
 ## Perfil técnico
 
-Atuo no desenvolvimento de aplicações com Flutter, Supabase e interfaces responsivas, mantendo uma base sólida em HTML, CSS, JavaScript, Bootstrap, Node.js e MySQL.
+Desenvolvimento de aplicações com Flutter, Supabase e interfaces responsivas, mantendo uma base sólida em HTML, CSS, JavaScript, Bootstrap, Node.js e MySQL.
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na UNIFEOB, com previsão de conclusão em 2027, e concluí o Ensino Médio com Curso Técnico em Informática para Internet em 2024. Meu repertório combina formação acadêmica, projetos práticos, prototipação de interfaces e desenvolvimento de aplicações voltadas à resolução de problemas reais.
+Estudante de Análise e Desenvolvimento de Sistemas na UNIFEOB, com previsão de conclusão em 2027, e concluí o Ensino Médio com Curso Técnico em Informática para Internet em 2024. Meu repertório combina formação acadêmica, projetos práticos, prototipação de interfaces e desenvolvimento de aplicações voltadas à resolução de problemas reais.
 
-Tenho interesse em front-end, desenvolvimento mobile, integração de sistemas, acessibilidade, automação, Linux e infraestrutura doméstica. Também exploro o universo de home labs, incluindo experimentos com hardware antigo e Ubuntu Server operado diretamente por linha de comando.
+Interesse em front-end, desenvolvimento mobile, integração de sistemas, acessibilidade, automação, Linux e infraestrutura doméstica. Também exploro o universo de home labs, incluindo experimentos com hardware antigo e Ubuntu Server operado diretamente por linha de comando.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-Aplica%C3%A7%C3%B5es-6D28D9?style=flat-square&logo=flutter&logoColor=white" alt="Flutter para aplicações" />
@@ -275,7 +275,7 @@ Tenho interesse em front-end, desenvolvimento mobile, integração de sistemas, 
 ## Contato
 
 <p>
-  Estou disponível para conversar sobre desenvolvimento web, Flutter, projetos acadêmicos, interfaces front-end, Linux, home labs e oportunidades de aprendizado ou colaboração técnica.
+  Para conversar sobre desenvolvimento web, Flutter, projetos acadêmicos, interfaces front-end e oportunidades de aprendizado ou colaboração técnica. Estou sempre aberto a contatos via links abaixo!:
 </p>
 
 <p align="center">
