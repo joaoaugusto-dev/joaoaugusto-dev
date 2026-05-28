@@ -173,7 +173,7 @@ Interesse em front-end, desenvolvimento mobile, integração de sistemas, acessi
     </td>
     <td width="50%">
       <a href="https://github.com/joaoaugusto-dev/testedesoftware-iee-29119"><strong>testedesoftware-iee-29119</strong></a>
-      <p>Repositório público atualizado automaticamente.</p>
+      <p>Repositório Geral</p>
       <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/testedesoftware-iee-29119?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em testedesoftware-iee-29119" />
       <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/testedesoftware-iee-29119?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de testedesoftware-iee-29119" />
     </td>
@@ -187,7 +187,7 @@ Interesse em front-end, desenvolvimento mobile, integração de sistemas, acessi
     </td>
     <td width="50%">
       <a href="https://github.com/joaoaugusto-dev/projeto_financeiro"><strong>projeto_financeiro</strong></a>
-      <p>Repositório público atualizado automaticamente.</p>
+      <p>Repositório Geral</p>
       <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/projeto_financeiro?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em projeto_financeiro" />
       <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/projeto_financeiro?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de projeto_financeiro" />
     </td>
@@ -195,13 +195,13 @@ Interesse em front-end, desenvolvimento mobile, integração de sistemas, acessi
 <tr>
     <td width="50%">
       <a href="https://github.com/joaoaugusto-dev/projeto05_firebase_viacep"><strong>projeto05_firebase_viacep</strong></a>
-      <p>Repositório público atualizado automaticamente.</p>
+      <p>Repositório Geral</p>
       <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/projeto05_firebase_viacep?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em projeto05_firebase_viacep" />
       <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/projeto05_firebase_viacep?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de projeto05_firebase_viacep" />
     </td>
     <td width="50%">
       <a href="https://github.com/joaoaugusto-dev/rede-de-cinemas-06-04-26"><strong>rede-de-cinemas-06-04-26</strong></a>
-      <p>Repositório público atualizado automaticamente.</p>
+      <p>Repositório Geral</p>
       <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/rede-de-cinemas-06-04-26?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em rede-de-cinemas-06-04-26" />
       <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/rede-de-cinemas-06-04-26?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de rede-de-cinemas-06-04-26" />
     </td>
