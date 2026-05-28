@@ -20,7 +20,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=900&color=A855F7&center=true&vCenter=true&width=850&lines=Desenvolvimento+com+Flutter%2C+Dart+e+Supabase;Interfaces+web+responsivas+com+HTML%2C+CSS%2C+JavaScript+e+Node.js;Interesse+pr%C3%A1tico+em+Linux%2C+CLI%2C+Ubuntu+Server+e+home+labs"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=900&color=A855F7&center=true&vCenter=true&width=850&lines=Desenvolvimento+com+Flutter%2C+Dart%2C+Supabase+e+Firebase;Interfaces+web+responsivas+com+HTML%2C+CSS%2C+JavaScript%2C+Bootstrap+e+Node.js;Interesse+pr%C3%A1tico+em+Linux%2C+CLI%2C+Ubuntu+Server+e+home+labs"
     alt="Resumo profissional animado"
   />
 </p>
@@ -29,7 +29,7 @@
 
 ## Perfil técnico
 
-Desenvolvimento de aplicações com Flutter, Supabase e interfaces responsivas, mantendo uma base sólida em HTML, CSS, JavaScript, Bootstrap, Node.js e MySQL.
+Desenvolvimento de aplicações com Flutter, Supabase, Firebase e interfaces responsivas, mantendo uma base sólida em HTML, CSS, JavaScript, Bootstrap, Node.js e MySQL.
 
 Estudante de Análise e Desenvolvimento de Sistemas na UNIFEOB, com previsão de conclusão em 2027, e concluí o Ensino Médio com Curso Técnico em Informática para Internet em 2024. Meu repertório combina formação acadêmica, projetos práticos, prototipação de interfaces e desenvolvimento de aplicações voltadas à resolução de problemas reais.
 
@@ -38,6 +38,8 @@ Interesse em front-end, desenvolvimento mobile, integração de sistemas, acessi
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-Aplica%C3%A7%C3%B5es-6D28D9?style=flat-square&logo=flutter&logoColor=white" alt="Flutter para aplicações" />
   <img src="https://img.shields.io/badge/Supabase-Integra%C3%A7%C3%A3o%20e%20dados-4C1D95?style=flat-square&logo=supabase&logoColor=white" alt="Supabase para integração e dados" />
+  <img src="https://img.shields.io/badge/Firebase-Backend%20e%20dados-6D28D9?style=flat-square&logo=firebase&logoColor=white" alt="Firebase para backend e dados" />
+  <img src="https://img.shields.io/badge/Bootstrap-Interfaces%20responsivas-4C1D95?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap para interfaces responsivas" />
   <img src="https://img.shields.io/badge/Linux-Ambiente%20principal-1F103A?style=flat-square&logo=linux&logoColor=white" alt="Linux como ambiente principal" />
   <img src="https://img.shields.io/badge/Home%20Lab-CLI%20e%20servidores-6D28D9?style=flat-square&logo=ubuntu&logoColor=white" alt="Home lab com CLI e servidores" />
 </p>
@@ -47,7 +49,7 @@ Interesse em front-end, desenvolvimento mobile, integração de sistemas, acessi
 ## Stack principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,supabase,html,css,js,nodejs,mysql,bootstrap,figma,git,github,linux,ubuntu,vscode&theme=dark&perline=5" alt="Tecnologias principais" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,supabase,firebase,html,css,js,bootstrap,nodejs,mysql,figma,git,github,linux,ubuntu,vscode&theme=dark&perline=5" alt="Tecnologias principais" />
 </p>
 
 <br />
@@ -57,13 +59,14 @@ Interesse em front-end, desenvolvimento mobile, integração de sistemas, acessi
 <table>
   <tr>
     <td width="50%">
-      <h3>Flutter e Supabase</h3>
+      <h3>Flutter, Supabase e Firebase</h3>
       <p>
         <img src="https://img.shields.io/badge/Flutter-6D28D9?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
         <img src="https://img.shields.io/badge/Dart-4C1D95?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
         <img src="https://img.shields.io/badge/Supabase-1F103A?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+        <img src="https://img.shields.io/badge/Firebase-6D28D9?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
       </p>
-      <p>Desenvolvimento de aplicações com interfaces bem estruturadas, integração com dados e fluxos de autenticação.</p>
+      <p>Desenvolvimento de aplicações com interfaces bem estruturadas, integração com dados, serviços em nuvem e fluxos de autenticação.</p>
     </td>
     <td width="50%">
       <h3>Front-end web</h3>
@@ -71,8 +74,9 @@ Interesse em front-end, desenvolvimento mobile, integração de sistemas, acessi
         <img src="https://img.shields.io/badge/HTML5-6D28D9?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
         <img src="https://img.shields.io/badge/CSS3-4C1D95?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
         <img src="https://img.shields.io/badge/JavaScript-1F103A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Bootstrap-6D28D9?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
       </p>
-      <p>Criação de páginas responsivas, interfaces organizadas, componentes visuais reutilizáveis e experiências web com foco em clareza, acessibilidade e consistência.</p>
+      <p>Criação de páginas responsivas com HTML, CSS, JavaScript e Bootstrap, interfaces organizadas, componentes visuais reutilizáveis e experiências web com foco em clareza, acessibilidade e consistência.</p>
     </td>
   </tr>
   <tr>
@@ -245,6 +249,8 @@ Interesse em front-end, desenvolvimento mobile, integração de sistemas, acessi
         <img src="https://img.shields.io/badge/GitHub-1F103A?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
         <img src="https://img.shields.io/badge/Flutter%20SDK-6D28D9?style=flat-square&logo=flutter&logoColor=white" alt="Flutter SDK" />
         <img src="https://img.shields.io/badge/Supabase-4C1D95?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+        <img src="https://img.shields.io/badge/Firebase-6D28D9?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
+        <img src="https://img.shields.io/badge/Bootstrap-4C1D95?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
         <img src="https://img.shields.io/badge/Figma-1F103A?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
       </p>
     </td>
