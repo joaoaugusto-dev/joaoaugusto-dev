@@ -166,6 +166,20 @@ Interesse em front-end, desenvolvimento mobile, integração de sistemas, acessi
 <table>
 <tr>
     <td width="50%">
+      <a href="https://github.com/joaoaugusto-dev/ddm-projeto-03"><strong>ddm-projeto-03</strong></a>
+      <p>Repositório Geral</p>
+      <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/ddm-projeto-03?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em ddm-projeto-03" />
+      <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/ddm-projeto-03?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de ddm-projeto-03" />
+    </td>
+    <td width="50%">
+      <a href="https://github.com/joaoaugusto-dev/projeto-pi"><strong>projeto-pi</strong></a>
+      <p>Interface Web para o projeto de Pi - Iluminação e Climatização automática</p>
+      <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/projeto-pi?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em projeto-pi" />
+      <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/projeto-pi?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de projeto-pi" />
+    </td>
+  </tr>
+<tr>
+    <td width="50%">
       <a href="https://github.com/joaoaugusto-dev/my-cash"><strong>my-cash</strong></a>
       <p>App de finanças (Flutter mobile/web) com backend Nest.js e Supabase; autenticação Email/Google, arquitetura MVVM, chat agent com LLM + Whisper para texto/áudio, Vector Search para consultas, dashboards de gastos, gestão de cartões, notificações e insights.</p>
       <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/my-cash?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em my-cash" />
@@ -190,20 +204,6 @@ Interesse em front-end, desenvolvimento mobile, integração de sistemas, acessi
       <p>Repositório Geral</p>
       <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/testedesoftware-iee-29119?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em testedesoftware-iee-29119" />
       <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/testedesoftware-iee-29119?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de testedesoftware-iee-29119" />
-    </td>
-  </tr>
-<tr>
-    <td width="50%">
-      <a href="https://github.com/joaoaugusto-dev/legacy-code-override"><strong>legacy-code-override</strong></a>
-      <p>Projeto de Iniciação Científica: Jogo de plataforma 2D que explora conceitos de Inteligência Artificial, Evolução e Engenharia de Prompt como mecânicas de gameplay.</p>
-      <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/legacy-code-override?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em legacy-code-override" />
-      <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/legacy-code-override?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de legacy-code-override" />
-    </td>
-    <td width="50%">
-      <a href="https://github.com/joaoaugusto-dev/projeto05_firebase_viacep"><strong>projeto05_firebase_viacep</strong></a>
-      <p>Repositório Geral</p>
-      <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/projeto05_firebase_viacep?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em projeto05_firebase_viacep" />
-      <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/projeto05_firebase_viacep?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de projeto05_firebase_viacep" />
     </td>
   </tr>
 </table>
