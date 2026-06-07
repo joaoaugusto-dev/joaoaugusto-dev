@@ -166,44 +166,44 @@ Interesse em front-end, desenvolvimento mobile, integração de sistemas, acessi
 <table>
 <tr>
     <td width="50%">
+      <a href="https://github.com/joaoaugusto-dev/my-cash"><strong>my-cash</strong></a>
+      <p>App de finanças (Flutter mobile/web) com backend Nest.js e Supabase; autenticação Email/Google, arquitetura MVVM, chat agent com LLM + Whisper para texto/áudio, Vector Search para consultas, dashboards de gastos, gestão de cartões, notificações e insights.</p>
+      <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/my-cash?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em my-cash" />
+      <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/my-cash?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de my-cash" />
+    </td>
+    <td width="50%">
       <a href="https://github.com/joaoaugusto-dev/portfolio"><strong>portfolio</strong></a>
       <p>Repositório do meu site de portfólio pessoal. Aqui compartilho meus projetos, habilidades e informações de contato. O site foi criado para apresentar meu trabalho de forma profissional e organizada.</p>
       <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/portfolio?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em portfolio" />
       <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/portfolio?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de portfolio" />
     </td>
+  </tr>
+<tr>
     <td width="50%">
       <a href="https://github.com/joaoaugusto-dev/avaliacaoddm-financas"><strong>avaliacaoddm-financas</strong></a>
       <p>Repositório Geral</p>
       <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/avaliacaoddm-financas?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em avaliacaoddm-financas" />
       <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/avaliacaoddm-financas?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de avaliacaoddm-financas" />
     </td>
-  </tr>
-<tr>
     <td width="50%">
       <a href="https://github.com/joaoaugusto-dev/curso-flutter"><strong>curso-flutter</strong></a>
       <p>Atividades e projetos referentes ao curso de Flutter para desenvolvimento e aprendizado profundo sobre Dart e o framework.</p>
       <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/curso-flutter?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em curso-flutter" />
       <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/curso-flutter?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de curso-flutter" />
     </td>
+  </tr>
+<tr>
     <td width="50%">
       <a href="https://github.com/joaoaugusto-dev/projeto05_firebase_viacep"><strong>projeto05_firebase_viacep</strong></a>
       <p>Repositório Geral</p>
       <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/projeto05_firebase_viacep?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em projeto05_firebase_viacep" />
       <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/projeto05_firebase_viacep?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de projeto05_firebase_viacep" />
     </td>
-  </tr>
-<tr>
     <td width="50%">
       <a href="https://github.com/joaoaugusto-dev/ddm-projeto-04"><strong>ddm-projeto-04</strong></a>
       <p>Repositório Geral</p>
       <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/ddm-projeto-04?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em ddm-projeto-04" />
       <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/ddm-projeto-04?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de ddm-projeto-04" />
-    </td>
-    <td width="50%">
-      <a href="https://github.com/joaoaugusto-dev/ddm-projeto-03"><strong>ddm-projeto-03</strong></a>
-      <p>Repositório Geral</p>
-      <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/ddm-projeto-03?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em ddm-projeto-03" />
-      <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/ddm-projeto-03?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de ddm-projeto-03" />
     </td>
   </tr>
 </table>
