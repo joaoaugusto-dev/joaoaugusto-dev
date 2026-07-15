@@ -285,8 +285,8 @@ Interesse em front-end, desenvolvimento mobile, integração de sistemas, acessi
 </p>
 
 <p align="center">
-  <a href="mailto:joaoaugusto2406@outlook.com">
-    <img src="https://img.shields.io/badge/E--mail-6D28D9?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail" />
+  <a href="mailto:contato@joaoaugusto.dev">
+    <img src="https://img.shields.io/badge/E--mail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
   <a href="https://api.whatsapp.com/send?phone=5519994943031">
     <img src="https://img.shields.io/badge/WhatsApp-4C1D95?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
@@ -300,7 +300,7 @@ Interesse em front-end, desenvolvimento mobile, integração de sistemas, acessi
 </p>
 
 <p align="center">
-  <a href="mailto:joaoaugusto2406@outlook.com">joaoaugusto2406@outlook.com</a> ·
+  <a href="mailto:contato@joaoaugusto.dev">contato@joaoaugusto.dev</a> ·
   <a href="https://api.whatsapp.com/send?phone=5519994943031">WhatsApp</a> ·
   <a href="https://github.com/joaoaugusto-dev">GitHub</a> ·
   <a href="https://www.linkedin.com/in/jo%C3%A3o-augusto-de-freitas/">LinkedIn</a>
