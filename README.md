@@ -166,16 +166,16 @@ Interesse em front-end, desenvolvimento mobile, integração de sistemas, acessi
 <table>
 <tr>
     <td width="50%">
-      <a href="https://github.com/joaoaugusto-dev/portfolio"><strong>portfolio</strong></a>
-      <p>Repositório do meu site de portfólio pessoal. Aqui compartilho meus projetos, habilidades e informações de contato. O site foi criado para apresentar meu trabalho de forma profissional e organizada.</p>
-      <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/portfolio?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em portfolio" />
-      <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/portfolio?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de portfolio" />
-    </td>
-    <td width="50%">
       <a href="https://github.com/joaoaugusto-dev/ADS-2026.2"><strong>ADS-2026.2</strong></a>
       <p>Este repositório reúne tudo que desenvolvo ao longo do segundo semestre de 2026 do curso de Análise e Desenvolvimento de Sistemas na UNIFEOB: testes, exercícios, acompanhamento com o professor em aula e projetos práticos. O conteúdo é organizado por disciplina, e cada disciplina é subdividida por aula, com data e tema.</p>
       <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/ADS-2026.2?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em ADS-2026.2" />
       <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/ADS-2026.2?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de ADS-2026.2" />
+    </td>
+    <td width="50%">
+      <a href="https://github.com/joaoaugusto-dev/portfolio"><strong>portfolio</strong></a>
+      <p>Repositório do meu site de portfólio pessoal. Aqui compartilho meus projetos, habilidades e informações de contato. O site foi criado para apresentar meu trabalho de forma profissional e organizada.</p>
+      <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/portfolio?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em portfolio" />
+      <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/portfolio?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de portfolio" />
     </td>
   </tr>
 <tr>
