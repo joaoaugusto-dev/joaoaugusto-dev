@@ -166,44 +166,44 @@ Interesse em front-end, desenvolvimento mobile, integração de sistemas, acessi
 <table>
 <tr>
     <td width="50%">
+      <a href="https://github.com/joaoaugusto-dev/legacy-code-override"><strong>legacy-code-override</strong></a>
+      <p>Projeto de Iniciação Científica: Jogo de plataforma 2D que explora conceitos de Inteligência Artificial, Evolução e Engenharia de Prompt como mecânicas de gameplay.</p>
+      <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/legacy-code-override?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em legacy-code-override" />
+      <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/legacy-code-override?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de legacy-code-override" />
+    </td>
+    <td width="50%">
       <a href="https://github.com/joaoaugusto-dev/PI-2026.2"><strong>PI-2026.2</strong></a>
       <p>Sistema web de controle de retirada e devolução de ferramentas do almoxarifado da Soufer — PI 2026.2 (ODS 9).</p>
       <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/PI-2026.2?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em PI-2026.2" />
       <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/PI-2026.2?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de PI-2026.2" />
     </td>
+  </tr>
+<tr>
     <td width="50%">
       <a href="https://github.com/joaoaugusto-dev/ADS-2026.2"><strong>ADS-2026.2</strong></a>
       <p>Este repositório reúne tudo que desenvolvo ao longo do segundo semestre de 2026 do curso de Análise e Desenvolvimento de Sistemas na UNIFEOB: testes, exercícios, acompanhamento com o professor em aula e projetos práticos. O conteúdo é organizado por disciplina, e cada disciplina é subdividida por aula, com data e tema.</p>
       <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/ADS-2026.2?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em ADS-2026.2" />
       <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/ADS-2026.2?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de ADS-2026.2" />
     </td>
-  </tr>
-<tr>
     <td width="50%">
       <a href="https://github.com/joaoaugusto-dev/portfolio"><strong>portfolio</strong></a>
       <p>Repositório do meu site de portfólio pessoal. Aqui compartilho meus projetos, habilidades e informações de contato. O site foi criado para apresentar meu trabalho de forma profissional e organizada.</p>
       <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/portfolio?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em portfolio" />
       <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/portfolio?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de portfolio" />
     </td>
+  </tr>
+<tr>
     <td width="50%">
       <a href="https://github.com/joaoaugusto-dev/pi-mds"><strong>pi-mds</strong></a>
       <p>Projeto Integrado de Modelagem e Desenvolvimento de Sistemas</p>
       <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/pi-mds?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em pi-mds" />
       <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/pi-mds?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de pi-mds" />
     </td>
-  </tr>
-<tr>
     <td width="50%">
       <a href="https://github.com/joaoaugusto-dev/my-cash"><strong>my-cash</strong></a>
       <p>App de finanças (Flutter mobile/web) com backend Nest.js e Supabase; autenticação Email/Google, arquitetura MVVM, chat agent com LLM + Whisper para texto/áudio, Vector Search para consultas, dashboards de gastos, gestão de cartões, notificações e insights.</p>
       <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/my-cash?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em my-cash" />
       <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/my-cash?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de my-cash" />
-    </td>
-    <td width="50%">
-      <a href="https://github.com/joaoaugusto-dev/avaliacaoddm-financas"><strong>avaliacaoddm-financas</strong></a>
-      <p>Repositório Geral</p>
-      <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/avaliacaoddm-financas?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em avaliacaoddm-financas" />
-      <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/avaliacaoddm-financas?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de avaliacaoddm-financas" />
     </td>
   </tr>
 </table>
