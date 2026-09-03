@@ -180,30 +180,30 @@ Interesse em front-end, desenvolvimento mobile, integração de sistemas, acessi
   </tr>
 <tr>
     <td width="50%">
+      <a href="https://github.com/joaoaugusto-dev/my-cash"><strong>my-cash</strong></a>
+      <p>App de finanças (Flutter mobile/web) com backend Nest.js e Supabase; autenticação Email/Google, arquitetura MVVM, chat agent com LLM + Whisper para texto/áudio, Vector Search para consultas, dashboards de gastos, gestão de cartões, notificações e insights.</p>
+      <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/my-cash?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em my-cash" />
+      <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/my-cash?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de my-cash" />
+    </td>
+    <td width="50%">
       <a href="https://github.com/joaoaugusto-dev/portfolio"><strong>portfolio</strong></a>
       <p>Repositório do meu site de portfólio pessoal. Aqui compartilho meus projetos, habilidades e informações de contato. O site foi criado para apresentar meu trabalho de forma profissional e organizada.</p>
       <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/portfolio?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em portfolio" />
       <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/portfolio?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de portfolio" />
     </td>
+  </tr>
+<tr>
     <td width="50%">
       <a href="https://github.com/joaoaugusto-dev/legacy-code-override"><strong>legacy-code-override</strong></a>
       <p>Projeto de Iniciação Científica: Jogo de plataforma 2D que explora conceitos de Inteligência Artificial, Evolução e Engenharia de Prompt como mecânicas de gameplay.</p>
       <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/legacy-code-override?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em legacy-code-override" />
       <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/legacy-code-override?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de legacy-code-override" />
     </td>
-  </tr>
-<tr>
     <td width="50%">
       <a href="https://github.com/joaoaugusto-dev/pi-mds"><strong>pi-mds</strong></a>
       <p>Projeto Integrado de Modelagem e Desenvolvimento de Sistemas</p>
       <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/pi-mds?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em pi-mds" />
       <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/pi-mds?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de pi-mds" />
-    </td>
-    <td width="50%">
-      <a href="https://github.com/joaoaugusto-dev/my-cash"><strong>my-cash</strong></a>
-      <p>App de finanças (Flutter mobile/web) com backend Nest.js e Supabase; autenticação Email/Google, arquitetura MVVM, chat agent com LLM + Whisper para texto/áudio, Vector Search para consultas, dashboards de gastos, gestão de cartões, notificações e insights.</p>
-      <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/my-cash?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em my-cash" />
-      <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/my-cash?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de my-cash" />
     </td>
   </tr>
 </table>
