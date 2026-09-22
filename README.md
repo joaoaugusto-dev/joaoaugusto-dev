@@ -10,7 +10,7 @@
   <a href="https://joaoaugusto.dev/">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-6D28D9?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjEyIiBjeT0iOCIgcj0iNCIvPjxwYXRoIGQ9Ik00IDIwYzAtNC40IDMuNi04IDgtOHM4IDMuNiA4IDgiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+PC9zdmc+&logoColor=white" alt="Portfólio" />
   </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-augusto-de-freitas/">
+  <a href="https://www.linkedin.com/in/joaoaugustodefreitas">
     <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/joaoaugusto-dev">
@@ -294,7 +294,7 @@ Interesse em front-end, desenvolvimento mobile, integração de sistemas, acessi
   <a href="https://github.com/joaoaugusto-dev">
     <img src="https://img.shields.io/badge/GitHub-1F103A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-augusto-de-freitas/">
+  <a href="https://www.linkedin.com/in/joaoaugustodefreitas">
     <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -303,7 +303,7 @@ Interesse em front-end, desenvolvimento mobile, integração de sistemas, acessi
   <a href="mailto:contato@joaoaugusto.dev">contato@joaoaugusto.dev</a> ·
   <a href="https://api.whatsapp.com/send?phone=5519994943031">WhatsApp</a> ·
   <a href="https://github.com/joaoaugusto-dev">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-augusto-de-freitas/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/joaoaugustodefreitas">LinkedIn</a>
 </p>
 
 <p align="center">
