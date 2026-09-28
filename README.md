@@ -166,16 +166,16 @@ Interesse em front-end, desenvolvimento mobile, integração de sistemas, acessi
 <table>
 <tr>
     <td width="50%">
-      <a href="https://github.com/joaoaugusto-dev/estudo-de-caso-salas-de-estudo"><strong>estudo-de-caso-salas-de-estudo</strong></a>
-      <p>Repositório Geral</p>
-      <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/estudo-de-caso-salas-de-estudo?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em estudo-de-caso-salas-de-estudo" />
-      <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/estudo-de-caso-salas-de-estudo?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de estudo-de-caso-salas-de-estudo" />
-    </td>
-    <td width="50%">
       <a href="https://github.com/joaoaugusto-dev/PI-2026.2"><strong>PI-2026.2</strong></a>
       <p>Sistema web de controle de retirada e devolução de ferramentas do almoxarifado da Soufer — PI 2026.2 (ODS 9).</p>
       <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/PI-2026.2?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em PI-2026.2" />
       <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/PI-2026.2?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de PI-2026.2" />
+    </td>
+    <td width="50%">
+      <a href="https://github.com/joaoaugusto-dev/estudo-de-caso-salas-de-estudo"><strong>estudo-de-caso-salas-de-estudo</strong></a>
+      <p>Repositório Geral</p>
+      <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/estudo-de-caso-salas-de-estudo?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em estudo-de-caso-salas-de-estudo" />
+      <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/estudo-de-caso-salas-de-estudo?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de estudo-de-caso-salas-de-estudo" />
     </td>
   </tr>
 <tr>
