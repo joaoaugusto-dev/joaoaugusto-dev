@@ -166,16 +166,16 @@ Interesse em front-end, desenvolvimento mobile, integração de sistemas, acessi
 <table>
 <tr>
     <td width="50%">
-      <a href="https://github.com/joaoaugusto-dev/helpdesk-web"><strong>helpdesk-web</strong></a>
-      <p>HelpDesk Web - sistema de chamados em React + TypeScript com API NodeJS</p>
-      <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/helpdesk-web?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em helpdesk-web" />
-      <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/helpdesk-web?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de helpdesk-web" />
-    </td>
-    <td width="50%">
       <a href="https://github.com/joaoaugusto-dev/homelabOS"><strong>homelabOS</strong></a>
       <p>Painel de homelab em C sem dependências + plataforma de hospedagem (Podman, bancos, Cloudflare Tunnel). Dependency-free homelab dashboard and self-hosted app platform in C.</p>
       <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/homelabOS?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em homelabOS" />
       <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/homelabOS?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de homelabOS" />
+    </td>
+    <td width="50%">
+      <a href="https://github.com/joaoaugusto-dev/helpdesk-web"><strong>helpdesk-web</strong></a>
+      <p>HelpDesk Web - sistema de chamados em React + TypeScript com API NodeJS</p>
+      <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/helpdesk-web?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em helpdesk-web" />
+      <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/helpdesk-web?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de helpdesk-web" />
     </td>
   </tr>
 <tr>
