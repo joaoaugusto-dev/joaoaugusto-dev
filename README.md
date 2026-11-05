@@ -166,6 +166,20 @@ Interesse em front-end, desenvolvimento mobile, integração de sistemas, acessi
 <table>
 <tr>
     <td width="50%">
+      <a href="https://github.com/joaoaugusto-dev/P2-API-LivroCaixa"><strong>P2-API-LivroCaixa</strong></a>
+      <p>Livro-caixa que lê extratos OFX: API Node.js/Express com login JWT e perfis, banco PostgreSQL e interface React. Importa sem duplicar, exporta em OFX/CSV/Excel e classifica categorias automaticamente.</p>
+      <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/P2-API-LivroCaixa?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em P2-API-LivroCaixa" />
+      <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/P2-API-LivroCaixa?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de P2-API-LivroCaixa" />
+    </td>
+    <td width="50%">
+      <a href="https://github.com/joaoaugusto-dev/PI-2026.2"><strong>PI-2026.2</strong></a>
+      <p>Sistema web de controle de retirada e devolução de ferramentas do almoxarifado da Soufer — PI 2026.2 (ODS 9).</p>
+      <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/PI-2026.2?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em PI-2026.2" />
+      <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/PI-2026.2?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de PI-2026.2" />
+    </td>
+  </tr>
+<tr>
+    <td width="50%">
       <a href="https://github.com/joaoaugusto-dev/homelabOS"><strong>homelabOS</strong></a>
       <p>Painel de homelab em C sem dependências + plataforma de hospedagem (Podman, bancos, Cloudflare Tunnel). Dependency-free homelab dashboard and self-hosted app platform in C.</p>
       <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/homelabOS?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em homelabOS" />
@@ -186,24 +200,10 @@ Interesse em front-end, desenvolvimento mobile, integração de sistemas, acessi
       <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/ADS-2026.2?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de ADS-2026.2" />
     </td>
     <td width="50%">
-      <a href="https://github.com/joaoaugusto-dev/P2-API-LivroCaixa"><strong>P2-API-LivroCaixa</strong></a>
-      <p>Livro-caixa que lê extratos OFX: API Node.js/Express com login JWT e perfis, banco PostgreSQL e interface React. Importa sem duplicar, exporta em OFX/CSV/Excel e classifica categorias automaticamente.</p>
-      <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/P2-API-LivroCaixa?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em P2-API-LivroCaixa" />
-      <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/P2-API-LivroCaixa?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de P2-API-LivroCaixa" />
-    </td>
-  </tr>
-<tr>
-    <td width="50%">
       <a href="https://github.com/joaoaugusto-dev/portfolio"><strong>portfolio</strong></a>
       <p>Repositório do meu site de portfólio pessoal. Aqui compartilho meus projetos, habilidades e informações de contato. O site foi criado para apresentar meu trabalho de forma profissional e organizada.</p>
       <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/portfolio?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em portfolio" />
       <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/portfolio?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de portfolio" />
-    </td>
-    <td width="50%">
-      <a href="https://github.com/joaoaugusto-dev/PI-2026.2"><strong>PI-2026.2</strong></a>
-      <p>Sistema web de controle de retirada e devolução de ferramentas do almoxarifado da Soufer — PI 2026.2 (ODS 9).</p>
-      <img src="https://img.shields.io/github/last-commit/joaoaugusto-dev/PI-2026.2?style=flat-square&color=6D28D9&labelColor=1F103A&label=%C3%9Altimo%20commit" alt="Último commit em PI-2026.2" />
-      <img src="https://img.shields.io/github/languages/top/joaoaugusto-dev/PI-2026.2?style=flat-square&color=4C1D95&labelColor=1F103A" alt="Linguagem principal de PI-2026.2" />
     </td>
   </tr>
 </table>
